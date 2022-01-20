@@ -1,6 +1,6 @@
 # Travel Journal single page app 
 
-This project was part of the React course on [Scrimba](https://scrimba.com/).
+This project was part of the [React course on Scrimba](https://scrimba.com/learn/learnreact).
 
 It covered a wide range of React topics including:
 
