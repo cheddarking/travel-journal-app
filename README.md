@@ -1,3 +1,17 @@
+# Travel Journal single page app 
+
+This project was part of the React course on [Scrimba](https://scrimba.com/).
+
+It covered a wide range of React topics including:
+
+	### React components
+	### Props
+	### Objects and destructuring
+	### Array map() function
+	### JSX
+	### Javascript inside JSX
+	### CSS & HTML
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
